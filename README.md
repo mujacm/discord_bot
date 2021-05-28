@@ -6,7 +6,7 @@ These repositories are made by MUJ ACM S-Chap are to help developers like you ge
 
 ## In This Repository
 In this repository we are using discord.js to make a discord bot for MUJ ACM S-Chap upcoming discord server. To start with we have added 2 simple greeting commands. 
-To start the bot go here ->  [DISCORD DEVELOPER PORTAL](https://discord.com/developers/applications) and create a application then make a bot.
+To start the bot first go to ->  [DISCORD DEVELOPER PORTAL](https://discord.com/developers/applications) and create a application then make a bot.
 Now go to bot section and click on *reveal token*.
 Create a .env file in the root of the folder and add LOGIN_VAR=yourgeneratedtokenhere
 Now start the script using npm start.
