@@ -11,6 +11,7 @@ client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
+//go throught commands folder and store various commands in commands object
 const commands = {};
 const commandFiles = fs
   .readdirSync("./commands/")
